@@ -167,4 +167,4 @@ This project is intended for educational purposes. Always ensure you comply with
 
 ## 💌 Author
 
-This data pipeline is brought to you by [Kishlay](https://github.com/kishlayjeet). If you have questions, suggestions, or feedback, please don't hesitate to reach out at contact.kishlayjeet@gmail.com.
+This data pipeline is brought to you by [Swapnil](https://github.com/swapniljadhav96). If you have questions, suggestions, or feedback, please don't hesitate to reach out at swapniljadhav3181@gmail.com.
